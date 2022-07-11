@@ -1,4 +1,6 @@
 # devops-netology
+#First commit
+
 # Local .terraform directories
 **/.terraform/* - игнорировать файл .terraform в любых директориях
 
