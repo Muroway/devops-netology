@@ -1,3 +1,4 @@
+#Новая строчка
 # devops-netology
 # Local .terraform directories
 **/.terraform/* - игнорировать файл .terraform в любых директориях
